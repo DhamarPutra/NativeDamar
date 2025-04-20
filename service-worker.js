@@ -7,6 +7,7 @@ const urlsToCache = [
   '/offline.html',
   'https://cdn.jsdelivr.net/npm/tailwindcss@2.0.3/dist/tailwind.min.css', // Tailwind CSS CDN
   '/assets/react.svg',
+  'http://www.w3.org/2000/svg',
 ];
 
 // Install Service Worker
